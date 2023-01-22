@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rawan-Kh
-- 👀 I’m interested in full stack web development ,graphic and robotics...
-- 🌱 I’m currently learning react.js...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Rawan Khaled
+- 🤖 AI student @ Cairo Uni
+- 👀 I’m interested in Computer vision
 - 📫 rawanKHsalama@gmail.com
 -   
 
