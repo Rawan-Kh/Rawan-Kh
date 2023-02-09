@@ -34,15 +34,17 @@ You can click the Preview link to take a look at your changes.
 </p>
   
 
-# Where find me
+# Find me on
 
 <p align="center">
   <a href="https://www.github.com/Rawan-Kh">
     <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
- <a href="mailto:rawankhsalama@gmail.com">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
+ 
+ <a href="mailto:rawankhsalama@gmail.com" style="margin:5px">
+    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
     </a>
+ 
   <a href="https://www.linkedin.com/in/rawanKHsalama">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     </a>
