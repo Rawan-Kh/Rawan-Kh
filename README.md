@@ -2,9 +2,7 @@
 ###  🤖 AI student @ Cairo University
 ###  👀 I’m interested in Computer vision
 ###  Any projects😁! 
-###  📫 Always available -> rawanKHsalama@gmail.com  <a href="mailto:rawankhsalama@gmail.com">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
-    </a>
+###  📫 Always available -> rawanKHsalama@gmail.com  
 
 <!---
 Rawan-Kh/Rawan-Kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 # My Activity
 <div align='center'>
 
- https://github-readme-stats.vercel.app/api?username=Rawan-Kh&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6
+ 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rawan-Kh&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak][(https://github-readme-streak-stats.herokuapp.com/?user=Rawan-Kh&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6](https://github-readme-stats.vercel.app/api?username=Rawan-Kh&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
   
   <a href="https://github.com/Rawan-Kh">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawan-Kh&theme=merko&border_radius=10&"/> 
@@ -58,5 +56,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/Rawan-Kh">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     </a>
-    
+    <a href="mailto:rawankhsalama@gmail.com">
+    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
+    </a>
 </p>
