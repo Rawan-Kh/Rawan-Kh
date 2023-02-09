@@ -41,8 +41,8 @@ You can click the Preview link to take a look at your changes.
     <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
  
- <a href="mailto:rawankhsalama@gmail.com" style="margin:100px">
-    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
+ <a href="mailto:rawankhsalama@gmail.com">
+    <img style="margin:100px" src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
     </a>
  
   <a href="https://www.linkedin.com/in/rawanKHsalama">
