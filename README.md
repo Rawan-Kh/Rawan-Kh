@@ -3,6 +3,9 @@
 ###  👀 I’m interested in Computer vision
 ###  Any projects😁! 
 ###  📫 Always available -> rawanKHsalama@gmail.com  
+ <a href="mailto:rawankhsalama@gmail.com">
+    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
+    </a>
 
 <!---
 Rawan-Kh/Rawan-Kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,9 +43,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.github.com/Rawan-Kh">
     <img <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
- <a href="mailto:rawankhsalama@gmail.com">
-    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
-    </a>
+
   <a href="https://www.linkedin.com/in/rawanKHsalama">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     </a>
