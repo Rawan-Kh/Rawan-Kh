@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 # Programming languages / Frameworks
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,gcp,css,html,js,php,jquery,mysql,react&perline=4" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,gcp,css,html,js,php,mysql&perline=4" />
 </p>
   
  
