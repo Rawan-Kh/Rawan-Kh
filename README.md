@@ -2,7 +2,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   Hi there! 
 
 ###  🤖 AI student @ Cairo University
-###  👀 I’m interested in Computer vision
+###  👀 I’m interested in NLP & Computer vision
 ###  Any projects😁! 
 
 <br>
