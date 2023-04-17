@@ -11,8 +11,8 @@
 # Find me on
 
 <p align="center">
-  <a href="https://www.github.com/Rawan-Kh">
-   <img src="https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png" alt="kaggle"/>
+  <a href="https://www.kaggle.com/rawankhalidsalama">
+   <img src="https://kaggle-organizations/4/thumbnail.png" alt="kaggle"/>
   </a>
    <a href="mailto:rawankhsalama@gmail.com">
     <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
