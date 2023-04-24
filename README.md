@@ -4,17 +4,6 @@
 ###  🤖 AI student @ Cairo University
 ###  👀 I’m interested in Applied AI
 
-<br>
-<br>
-
-
-<!---
-Rawan-Kh/Rawan-Kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
- <br>
- <br>
  
 # My Activity
 <div align='center'>
