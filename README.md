@@ -7,21 +7,6 @@
 <br>
 <br>
 
-# Find me on
-
-<p align="center">
-  <a href="https://www.kaggle.com/rawankhalidsalama">
-   <img src="https://github.com/Rawan-Kh/Rawan-Kh/blob/main/kaggle.png" width="64" height"64" alt="kaggle"/>
-  </a>
-   <a href="mailto:rawankhsalama@gmail.com">
-    <img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/>
-    </a>
- 
-  <a href="https://www.linkedin.com/in/rawanKHsalama">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
-    </a>
-    
-</p>
 
 <!---
 Rawan-Kh/Rawan-Kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
