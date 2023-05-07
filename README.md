@@ -5,10 +5,6 @@
 
 <div align='center'>
  <h1> 🕵️‍♂Find me on </h1>
-<!-- [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/rawankhsalama/)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:mira.ehab@outlook.com)
-[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/RooSalama/)
-[![Kaggle](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png)](https://www.kaggle.com/rawankhalidsalama) -->
 
 <a href="https://www.linkedin.com/in/rawankhsalama/">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> <a/>
